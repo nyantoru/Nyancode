@@ -1,1 +1,13 @@
-[{"name":"社会クラフト","path":"codes/syakai"},{"name":"社会クラフト2","path":"codes/syakai2"}]
+[
+    {"code_version":" 1, 0, 0 "},
+    {"list":
+        [
+            {"name":"社会クラフト",
+                "path":"codes/syakai"
+            },
+            {"name":"社会クラフト2",
+                "path":"codes/syakai2"
+            }
+        ]
+    }
+]
