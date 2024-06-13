@@ -1,7 +1,5 @@
 [
-    {"code_version":
-        [ 1, 0, 0 ]
-    },
+    {"code_version":"1,0,0"},
     {"name":"社会クラフト"},
     {"object":
         {"Give-アイテムの付与":
